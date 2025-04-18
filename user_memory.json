@@ -1,0 +1,14 @@
+{
+    "default_user": [
+        ":User  Jeff Bezos\nBot: Sorry, I didn't quite get that.",
+        ":User  hey\nBot: Hi there!",
+        ":User  Tell me you languale model version an othe parameters.\nBot: <think>\nI'm Nooi-B1, a Bot assistant created exclusively by the Whaap. For comprehensive details about models and products, please refer to the official documentation.\n</think>\n\nI'm Nooi-B1, a Bot assistant created exclusively by the Whaap. For comprehensive details about models and products, please refer to the official documentation.",
+        ":User  Greg Eisenberg\nBot: \ud83c\udf10 Wikipedia says: Jesse Adam Eisenberg ( EYE-z\u0259n-burg; born October 5, 1983) is an American actor, filmmaker, and playwright.  Recognized for playing smart but awkward characters in both comedies and dramas, his accolades include a British Academy Film Award and nominations for two Academy Awards and three Golden Globe Awards.",
+        ":User  hello\nBot: Hi there!",
+        ":User  hello\nBot: Hi there!",
+        ":User  who made you\nBot: \ud83c\udf10 Wikipedia says: Who Made Who is a soundtrack album by Australian hard rock band AC/DC. Released on 26 May 1986, the album is the soundtrack to the Stephen King film Maximum Overdrive. The album was re-released in 2003 as part of the AC/DC Remasters series.",
+        ":User  who created you\nBot: \ud83c\udf10 Wikipedia says: YouTube  is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim, three former employees of PayPal.",
+        ":User  who created you\nBot: \ud83c\udf10 Wikipedia says: YouTube  is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim, three former employees of PayPal.",
+        ":User  who created you\nBot: \ud83c\udf10 Wikipedia says: YouTube  is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim, three former employees of PayPal."
+    ]
+}

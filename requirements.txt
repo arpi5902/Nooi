@@ -1,0 +1,16 @@
+# Required Python packages
+pyspellchecker
+wikipedia
+duckduckgo-search
+yt-dlp
+flask
+requests
+beautifulsoup4
+ffmpeg
+pandas
+pyyaml
+transformers
+pyarrow
+fuzzywuzzy
+fastapi
+uvicorn

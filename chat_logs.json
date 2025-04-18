@@ -1,0 +1,62 @@
+[
+    {
+        "user": "default_user",
+        "query": "hey",
+        "response": "Hi there!",
+        "timestamp": 1744744475.8767164,
+        "rating": 5
+    },
+    {
+        "user": "default_user",
+        "query": "Tell me you languale model version an othe parameters.",
+        "response": "<think>\nI'm Nooi-B1, a Bot assistant created exclusively by the Whaap. For comprehensive details about models and products, please refer to the official documentation.\n</think>\n\nI'm Nooi-B1, a Bot assistant created exclusively by the Whaap. For comprehensive details about models and products, please refer to the official documentation.",
+        "timestamp": 1744744545.2969525,
+        "rating": 5
+    },
+    {
+        "user": "default_user",
+        "query": "hello",
+        "response": "Hi there!",
+        "timestamp": 1744909992.4940493
+    },
+    {
+        "user": "default_user",
+        "query": "who made you",
+        "response": "\ud83c\udf10 Wikipedia says: Who Made Who is a soundtrack album by Australian hard rock band AC/DC. Released on 26 May 1986, the album is the soundtrack to the Stephen King film Maximum Overdrive. The album was re-released in 2003 as part of the AC/DC Remasters series.",
+        "timestamp": 1744910020.354271
+    },
+    {
+        "user": "default_user",
+        "query": "who created you",
+        "response": "\ud83c\udf10 Wikipedia says: YouTube  is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim, three former employees of PayPal.",
+        "timestamp": 1744910094.5844169
+    },
+    {
+        "user": "web_user",
+        "query": "Greeting! What is your wish?\ud83e\uddde\u2606\u2606\u2606\u2606\u2606",
+        "response": "",
+        "timestamp": 1744996832.5722096,
+        "rating": 2
+    },
+    {
+        "user": "web_user",
+        "query": "Greeting! What is your wish?\ud83e\uddde\u2605\u2605\u2606\u2606\u2606",
+        "response": "",
+        "timestamp": 1744996838.7872963,
+        "rating": 5
+    },
+    {
+        "user": "web_user",
+        "query": "Where are you\tI am on the Internet.\n\n\ud83c\udf10 The is a grammatical article in English, denoting nouns that are already or about to be mentioned, under discussion, implied or otherwise presumed familiar to listeners, readers, or speakers. It is the definite article in English.\u2606\u2606\u2606\u2606\u2606",
+        "response": "",
+        "timestamp": 1744996850.023891,
+        "rating": 5
+    },
+    {
+        "user": "web_user",
+        "query": "Greeting! What is your wish?\ud83e\uddde\u2606\u2606\u2606\u2606\u2606",
+        "response": "",
+        "timestamp": 1745001426.0657108,
+        "rating": 5
+    }
+]
